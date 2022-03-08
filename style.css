@@ -1,0 +1,20 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+};
+#taskArea{
+  text-align: center;
+}
+.makerBtn {
+   margin: 5px;
+}
+.todobtn{
+    /* background-color: aqua; */
+    border: 2px solid #fcfdffa4;
+    border-radius: 10%;
+    background :none;
+
+}
+#taskArea button{
+    margin: 5px;
+}
